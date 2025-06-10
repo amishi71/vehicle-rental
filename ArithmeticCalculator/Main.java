@@ -11,7 +11,7 @@ public class Main {
         int choice = 0;
 
         try {
-            System.out.print("Enter x: ");
+            System.out.print("Enter the value of x: ");
             x = scanner.nextDouble();
 
             System.out.print("Enter y: ");
